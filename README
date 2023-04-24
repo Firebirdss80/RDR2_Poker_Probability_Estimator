@@ -1,0 +1,6 @@
+This is a tool used to estimate the chance of wining a game of poker in RDR2.
+
+Future plans
+1. Add another script to calculate bets and how much one should bet based on the risk they want.
+2. Add a script to have monitor opponents and build a profile against them to hopefully help predict what they will do.
+3. Work on optimizing this script as much as possible to be as fast as possible.
